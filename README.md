@@ -1,4 +1,17 @@
 turn-off-screen
 ===============
 
-Turn off your screen display
+A simple utility written in Python to turn off your screen display.
+
+###Download Executables###
+[For Windows](/turn.exe)
+
+[For Linux](/turn)
+
+###Running source on Windows##
+You'll need the Python libraries that supports the Win32 API.
+You can download it from sourceforge [here](http://sourceforge.net/projects/pywin32/files/)
+
+###Next Step###
+I'd like to rewrite the `turnoff.py` in one line.
+Appreciate any Pull requests.
