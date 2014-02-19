@@ -1,6 +1,7 @@
 turn-off-screen [![Build Status](https://travis-ci.org/arjun024/turn-off-screen.png?branch=master)](https://travis-ci.org/arjun024/turn-off-screen)
 ===============
 A simple utility written in Python to turn off your screen display.
+
 Works on works on Linux, Windows and Mac OS.
 
 ###Download Executables###
