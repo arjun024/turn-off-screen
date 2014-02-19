@@ -3,4 +3,4 @@ python:
   - "2.7"
 script:
   - python turnoff.py
-
+  - python test/turnoff-test.py
